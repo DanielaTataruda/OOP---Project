@@ -1,0 +1,4 @@
+javac -d klasy zrodla/*.java
+
+# z pilku klasy tak kompilować:
+javac -d . ../zrodla/*.java
