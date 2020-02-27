@@ -3,7 +3,7 @@
 ## Opis apikacji
 Niezbędnik czytelnika jest aplikacją okienkowa napisaną w języku Java przy użyciu biblioteki
 Swing, która umożliwia obsługę interfejsu okienkowego. Aplikacja jest projektem semestralnym
-z programowania obiektowego na zajęcia w Instytucie Informatyki UWr(Lato 2018). Program jest przeznaczony
+z programowania obiektowego na zajęcia w Instytucie Informatyki UWr(Czerwiec 2018). Program jest przeznaczony
 dla osób lubiących czytać i upamiętniać przeczytane przez siebie książki.
 
 Aplikacja składa się z pięciu okien.
